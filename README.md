@@ -1,2 +1,4 @@
-# awesome-os-paper
-A list of awesome traditional (core) OS paper before the LLM era
+# Awesome OS Paper
+A list of awesome traditional (core) OS paper before LLM becomes popular.
+
+
