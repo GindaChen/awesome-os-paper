@@ -1,0 +1,1 @@
+- BitterLesson: http://www.incompleteideas.net/IncIdeas/BitterLesson.html
